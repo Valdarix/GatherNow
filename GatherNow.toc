@@ -1,0 +1,17 @@
+## Interface: 70300
+## Title: GatherNow
+## Notes: Give logical progression of Mining, Herbalism & Skinning. Will not be updated with WoD/Legion zones
+## Author: Valdarix
+## Version: 3.0.0
+## SavedVariablesPerCharacter: GatherNowDB
+## X-Curse-Packaged-Version: r71
+## X-Curse-Project-Name: GatherNow
+## X-Curse-Project-ID: gathernow
+## X-Curse-Repository-ID: wow/gathernow/
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+
+Core.lua
